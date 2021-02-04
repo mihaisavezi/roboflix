@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/roboflix/static/css/main.b1130fe4.chunk.css",
+    "main.js": "/roboflix/static/js/main.10530adc.chunk.js",
+    "main.js.map": "/roboflix/static/js/main.10530adc.chunk.js.map",
+    "runtime-main.js": "/roboflix/static/js/runtime-main.d6895fb7.js",
+    "runtime-main.js.map": "/roboflix/static/js/runtime-main.d6895fb7.js.map",
+    "static/css/2.31461e4f.chunk.css": "/roboflix/static/css/2.31461e4f.chunk.css",
+    "static/js/2.522a8ba8.chunk.js": "/roboflix/static/js/2.522a8ba8.chunk.js",
+    "static/js/2.522a8ba8.chunk.js.map": "/roboflix/static/js/2.522a8ba8.chunk.js.map",
+    "static/js/3.1a3ebec4.chunk.js": "/roboflix/static/js/3.1a3ebec4.chunk.js",
+    "static/js/3.1a3ebec4.chunk.js.map": "/roboflix/static/js/3.1a3ebec4.chunk.js.map",
+    "index.html": "/roboflix/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/roboflix/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.b1130fe4.chunk.css.map": "/roboflix/static/css/main.b1130fe4.chunk.css.map",
+    "static/js/2.522a8ba8.chunk.js.LICENSE.txt": "/roboflix/static/js/2.522a8ba8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/roboflix/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6895fb7.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.522a8ba8.chunk.js",
+    "static/css/main.b1130fe4.chunk.css",
+    "static/js/main.10530adc.chunk.js"
+  ]
+}
